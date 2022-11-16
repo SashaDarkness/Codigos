@@ -1,0 +1,45 @@
+
+
+Informações do cliente:
+Nome: s
+CPF: 2
+Endereço: a
+Telefone: 1
+------------ PEDIDOS FEITOS ------------
+
+|-> Nome do Produto: Salmão em Consumer
+|-> descrição do Produto: Salmão em Consumer com base de purê de Batata doce
+|-> Preço do Produto: 39.0
+
+|-> Nome do Produto: Guioza (5 unidades)
+|-> descrição do Produto: Pastel oriental de carne. Podendo ser frita ou a vapor...
+|-> Preço do Produto: 32.0
+
+|-> Total do pedido: 71.0
+--------------------------------------------
+Informações do cliente:
+Nome: s
+CPF: 2
+Endereço: a
+Telefone: 1
+------------ PEDIDOS FEITOS ------------
+
+|-> Nome do Produto: Salmão em Consumer
+|-> descrição do Produto: Salmão em Consumer com base de purê de Batata doce
+|-> Preço do Produto: 39.0
+
+|-> Total do pedido: 71.0
+--------------------------------------------
+Informações do cliente:
+Nome: s
+CPF: 2
+Endereço: a
+Telefone: 1
+------------ PEDIDOS FEITOS ------------
+
+|-> Nome do Produto: Salmão em Consumer
+|-> descrição do Produto: Salmão em Consumer com base de purê de Batata doce
+|-> Preço do Produto: 39.0
+
+|-> Total do pedido: 71.0
+--------------------------------------------
